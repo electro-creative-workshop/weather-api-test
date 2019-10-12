@@ -1,6 +1,4 @@
-# Weather-Frontend-Test
-General FE test
-
+# Weather Frontend Test
 
 ## What to Build
 
