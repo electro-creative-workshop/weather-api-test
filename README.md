@@ -16,9 +16,8 @@ Create the following single page application, based on the mockup below.
    - Geolocation by default (with zipcode input box failover if user denies permissions).
    - "Not here?" should bring the user to the zipcode input box.
    - Weather API: <a href="http://openweathermap.org/api/">openweathermap.org/api/</a>
-   - Current day’s forecast as mocked up (but using live data)
-   - Put this on codepen.io
-#### Also:
- - Make any design or functional improvements you see fit
- - Zip code form should self-validate
- - Use SVG weather icons: <a href="http://alessioatzeni.com/meteocons/">alessioatzeni.com/meteocons/</a>
+   - Current day’s forecast as mocked up (but using live data).
+   - Zip code form should self-validate.
+   - Use SVG weather icons: <a href="http://alessioatzeni.com/meteocons/">alessioatzeni.com/meteocons/</a>.
+   - Make any design or functional improvements you'd like. Write about them briefly upon completion of the task in a comment in the HTML section. 
+   - Put this on codepen.io.
