@@ -1,11 +1,10 @@
 # Weather Frontend Test
 
-## What to Build
-
 Create the following single page application, based on the mockup below.
+
 ![Image of Weather App](https://github.com/electro-creative-workshop/weather-api-test/blob/master/screenshot.png)
 
-### The functionality must include:
+## The functionality must include:
    - Responsive layout that collapses to a single column view in narrow viewports (make the hour items 100% wide). 
    - Accessible markup and SCSS syntax (no CSS frameworks).
    - Comment your work as if you were part of a awesome, collaboritve team.
