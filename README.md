@@ -13,8 +13,8 @@ Create the following single page application, based on the mockup below.
    - ES6 syntax.
    - Geolocation by default (with zipcode input box failover if user denies permissions).
    - "Not here?" should bring the user to the zipcode input box.
-   - Weather API: <a href="http://openweathermap.org/api/">openweathermap.org/api/</a>
    - Zip code form should self-validate.
+   - Weather API: <a href="http://openweathermap.org/api/">openweathermap.org/api/</a>
    - Use SVG weather icons: <a href="http://alessioatzeni.com/meteocons/">alessioatzeni.com/meteocons/</a>.
    - Comment your code thoroughly. 
    - Put this on codepen.io.
