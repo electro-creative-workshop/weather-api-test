@@ -5,7 +5,7 @@ Create the following single page application, based on the mockup below.
 ![Image of Weather App](https://github.com/electro-creative-workshop/weather-api-test/blob/master/screenshot.png)
 
 ## The functionality must include:
-   - Current day’s forecast as mocked up (but using live data).
+   - Current day’s forecast as mocked up (but using live data), showing hour, temp, and associated icon. 
    - Responsive layout that collapses to a single column view in narrow viewports (make the hour items 100% wide). 
    - Make any design or functional improvements you'd like. Write about these modifications in a comment in the HTML section.
    - Accessible markup and SCSS syntax (no CSS frameworks).
