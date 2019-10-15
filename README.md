@@ -9,6 +9,7 @@ Create the following single page application, based on the mockup below.
    - Responsive layout that collapses to a single column view in narrow viewports (make the hour items 100% wide). 
    - Make any design or functional improvements you'd like. Write about these modifications in a comment in the HTML section.
    - Accessible markup and SCSS syntax (no CSS frameworks).
+   - Ensure that all color combinations pass WCAG AA level of compliance (you'll have to change the background colors and text colors).
    - Use Vanilla JavaScript, no frameworks, no PHP. Don't do it in React or Vue.
    - ES6 syntax.
    - Geolocation by default (with zipcode input box failover if user denies permissions).
